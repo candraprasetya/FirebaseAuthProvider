@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "47326580648",
+    "firebase_url": "https://jualmotorbekasid.firebaseio.com",
+    "project_id": "jualmotorbekasid",
+    "storage_bucket": "jualmotorbekasid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47326580648:android:b780074264c89e9358579d",
+        "android_client_info": {
+          "package_name": "com.kardusinfo.jualbelimotorbekasid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47326580648-nuhrtl20ihu8ntliu950j8465d00qeav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oi2v3sYCix4xDle1SPIjcHhCGb1egP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47326580648-nuhrtl20ihu8ntliu950j8465d00qeav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47326580648:android:3008da31ba0f656058579d",
+        "android_client_info": {
+          "package_name": "com.kardusinfo.jualmotobekasid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47326580648-nuhrtl20ihu8ntliu950j8465d00qeav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oi2v3sYCix4xDle1SPIjcHhCGb1egP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47326580648-nuhrtl20ihu8ntliu950j8465d00qeav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47326580648:android:815446a2f819f72d58579d",
+        "android_client_info": {
+          "package_name": "com.kardusinfo.jualmotorbekas.jualmotorbekasid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47326580648-nuhrtl20ihu8ntliu950j8465d00qeav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oi2v3sYCix4xDle1SPIjcHhCGb1egP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47326580648-nuhrtl20ihu8ntliu950j8465d00qeav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47326580648:android:eb6ea2142ed59ca758579d",
+        "android_client_info": {
+          "package_name": "com.kardusinfo.jualmotorbekasid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47326580648-nuhrtl20ihu8ntliu950j8465d00qeav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6oi2v3sYCix4xDle1SPIjcHhCGb1egP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47326580648-nuhrtl20ihu8ntliu950j8465d00qeav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
